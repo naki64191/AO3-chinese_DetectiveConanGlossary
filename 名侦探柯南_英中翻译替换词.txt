@@ -164,7 +164,6 @@ Poison = 毒药
 Disguise = 變裝
 Alibi = 不在场证明
 Black Organization = 黑衣组织
-MPD = 多重人格
 
 // 地点
 Teitan High School = 帝丹高中
@@ -176,4 +175,5 @@ Mouri Detective Agency = 毛利侦探事务所
 Haido City Hospital = 杯戶市医院
 
 禁翻词条
+
 APTX 4869
