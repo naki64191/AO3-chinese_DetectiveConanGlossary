@@ -1,0 +1,106 @@
+维护者：V-Lipset
+版本号：1.0.0
+更新时间：2025-09-07
+
+词条
+
+// 主要角色
+Kudou Shinichi = 工藤 新一
+Edogawa Conan = 江戸川 柯南
+Mouri Ran = 毛利 蘭
+Mouri Kogorou = 毛利 小五郎
+Haibara Ai = 灰原 哀
+Agasa Hiroshi = 阿笠 博士
+Suzuki Sonoko = 铃木 園子
+Hattori Heiji = 服部 平次
+Toyama Kazuha = 遠山 和葉
+Kuroba Kaito = 黑羽 快斗
+Sera Masumi = 世良 真纯
+Okiya Subaru = 沖矢 昴
+Amuro Tooru = 安室 透
+Akai Shuichi = 赤井 秀一
+Miyano Shiho = 宮野 志保
+Miyano Akemi = 宮野 明美
+Vermouth = 貝爾摩德
+Gin = 琴酒
+Vodka = 伏特加
+Chianti = 基安蒂
+Korn = 科恩
+Kir = 基爾
+Sharon Vineyard = 莎朗·溫亞德
+Jodie Starling = 茱蒂·斯泰琳
+James Black = 詹姆斯·布萊克
+Andre Camel = 安德烈·卡梅爾
+Megure Juzo = 目暮 十三
+Takagi Wataru = 高木 渉
+Satou Miwako = 佐藤 美和子
+Yamamura Misao = 山村 操
+Yokomizo Sango = 横溝 参悟
+Yokomizo Jugo = 横溝 重悟
+
+// 少年偵探團
+Ayumi Yoshida = 吉田 步美
+Mitsuhiko Tsuburaya = 円谷 光彦
+Genta Kojima = 小嶋 元太
+
+// 黑暗組織
+Rum = 朗姆
+Bourbon = 波本
+Kir = 基爾
+Vermouth = 貝爾摩德
+
+// 其他重要角色
+Kisaki Eri = 妃 英理
+Suzuki Jiroukichi = 铃木 次郎吉
+Makoto Kyogoku = 京极 真
+Shiratori Ninzaburo = 白鳥 任三郎
+Matsuda Jinpei = 松田 陣平
+Uehara Yui = 上原 由衣
+Yamato Kansuke = 大和 敢助
+Morofushi Takaaki = 諸伏 高明
+Chiba Isshin= 千葉 和伸
+Date Wataru = 伊達 航
+
+// Kaito Kid
+Kaito Kid = 怪盗基德
+Konosuke Jii = 寺井 黄之助
+Aoko Nakamori = 中森 青子
+Ginzo Nakamori = 中森 银三
+
+// 通用詞條
+Detective = 偵探
+Criminal = 犯人
+Case = 案件
+Murder = 殺人
+Police = 警察
+Investigation = 調查
+Clue = 線索
+Victim = 受害者
+Suspect = 嫌疑人
+Kidnap = 綁架
+Explosion = 爆炸
+Poison = 毒藥
+Disguise = 變裝
+Alibi = 不在場證明
+Black Organization = 黑暗組織
+
+// 地點
+Teitan High School = 帝丹高中
+Teitan Elementary School = 帝丹小學
+Beika City = 米花市
+Beika Town = 米花町
+Poirot Cafe = 波洛咖啡廳
+Mouri Detective Agency = 毛利偵探事務所
+Haido City Hospital = 杯戶市醫院
+
+// 禁翻詞條
+Edogawa Conan
+Kudou Shinichi
+Detective Conan
+Black Organization
+Kaito Kid
+APTX 4869
+Vermouth
+Gin
+Rum
+Bourbon
