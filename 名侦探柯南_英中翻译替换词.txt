@@ -69,7 +69,8 @@ Leon Buchholz = 利昂‧布赫茲
 
 // 警校五人組
 Furuya Rei = 降谷 零
-Morofushi Hiromitsu = 诸伏 景光
+Morofushi = 诸伏
+Hiromitsu = 景光
 Matsuda Jinpei = 松田 阵平
 Hagiwara Kenji = 萩原 研二
 Date Wataru = 伊達 航
@@ -178,9 +179,9 @@ Haido City Hospital = 杯戶市医院
 Zero = 零
 
 // 常见误译
-Morofushi = 诸伏
-Hiromitsu = 景光
+
 
 禁翻词条
 APTX 4869
+
 Zero
