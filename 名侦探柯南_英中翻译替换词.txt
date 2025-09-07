@@ -1,5 +1,5 @@
 维护者：Naki64191
-版本号：1.0.3
+版本号：1.0.4
 更新时间：2025-09-08
 
 词条
@@ -86,7 +86,7 @@ Miike Naeko = 三池 苗子
 Miyamoto Yumi = 宫本 由美
 Uehara Yui = 上原 由衣
 Yamato Kansuke = 大和 敢助
-Morofushi Takaaki = 诸伏 高明
+Takaaki = 高明
 Hagiwara Chihaya = 萩原 千速
 Yokomizo Sango = 横沟 参悟
 Yokomizo Jugo = 横沟 重悟
@@ -183,5 +183,4 @@ Zero = 零
 
 禁翻词条
 APTX 4869
-
 Zero
