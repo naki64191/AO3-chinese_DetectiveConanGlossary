@@ -181,6 +181,7 @@ Haido City Hospital = 杯戶市医院
 //昵称
 Zero = 零
 Hiro = 景
+Hagi = 萩
 
 // 常见误译
 
@@ -188,4 +189,7 @@ Hiro = 景
 禁翻词条
 APTX 4869
 Zero
+Hiro
+Hagi
+
 Hiro
