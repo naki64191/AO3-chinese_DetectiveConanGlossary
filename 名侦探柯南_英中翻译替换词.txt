@@ -1,5 +1,5 @@
 维护者：Naki64191
-版本号：1.0.4
+版本号：1.0.5
 更新时间：2025-09-08
 
 词条
@@ -66,11 +66,13 @@ Stout = 司陶特
 Aquavit = 阿夸维特
 Riesling = 雷司令
 Leon Buchholz = 利昂‧布赫茲
+Sherry = 雪莉
 
 // 警校五人組
 Furuya Rei = 降谷 零
-Morofushi = 诸伏
-Hiromitsu = 景光
+Morofushi Hiromitsu = 诸伏景光
+Morofushi = 諸伏（仅用於指兄弟時，勿單独翻译高明）
+
 Matsuda Jinpei = 松田 阵平
 Hagiwara Kenji = 萩原 研二
 Date Wataru = 伊達 航
@@ -86,7 +88,8 @@ Miike Naeko = 三池 苗子
 Miyamoto Yumi = 宫本 由美
 Uehara Yui = 上原 由衣
 Yamato Kansuke = 大和 敢助
-Takaaki = 高明
+Morofushi Takaaki = 诸伏高明
+Morofushi = 諸伏（仅用於指兄弟時，勿單独翻译高明）
 Hagiwara Chihaya = 萩原 千速
 Yokomizo Sango = 横沟 参悟
 Yokomizo Jugo = 横沟 重悟
