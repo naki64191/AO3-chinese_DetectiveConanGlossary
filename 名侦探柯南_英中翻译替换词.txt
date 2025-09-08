@@ -4,6 +4,8 @@
 
 词条
 
+# 注意：Morofushi有兩位角色，请勿以姓氏单独對應高明或景光！
+
 // 主要角色
 Kudou Shinichi = 工藤 新一
 Edogawa Conan = 江户川 柯南 
@@ -186,4 +188,5 @@ Zero = 零
 
 禁翻词条
 APTX 4869
+
 Zero
